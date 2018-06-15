@@ -1,4 +1,4 @@
-# vue-cli配置多页面入口
+﻿# vue-cli配置多页面入口
 
 > 
 
@@ -20,7 +20,7 @@ npm run build --report
 
 ## 页面访问
 localhost:8080 + 项目名称 
-例：localhost:8080/wapSelfStockChannel.html
+例：localhost:8080/createEnter.html
 
 ## 开发目录
 src下按照项目名称分
